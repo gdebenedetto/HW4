@@ -41,15 +41,6 @@ nav a:hover {
     transition: all 0.3s ease; 
 }
 
-/* Class to make the current page navigation link stand out */
-nav a.current {
-    text-decoration: underline;
-    text-decoration-color: white;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 4px;
-    font-weight: bold;
-}
-
 header, nav, main, footer {
     text-align: center; 
 }
